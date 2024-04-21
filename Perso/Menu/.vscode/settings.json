@@ -1,0 +1,12 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "background.h": "c",
+        "sdl_image.h": "c",
+        "sdl_mixer.h": "c",
+        "bouton.h": "c",
+        "sdl.h": "c",
+        "perso.h": "c",
+        "texte.h": "c"
+    }
+}
